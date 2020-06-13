@@ -18,6 +18,7 @@ foo@bar:~/dgcn$ python3 train.py
 foo@bar:~/dgcn$ python3 infer.py aachen_000000_000019
 ```
 I am not accessible to the test set of Cityscapes, thus the `infer.py` does not inference images in the test set. You need to modify the script if you need to inference them.
+
 6. To test,
 ```console
 foo@bar:~/dgcn$ python3 test.py
