@@ -1,0 +1,8 @@
+__pycache__/
+model/*.pth
+cityscapes/**/*.png
+cityscapes/**/*.json
+cityscapes/**/*.txt
+cityscapes/**/*.zip
+cityscapes/**/*.html
+cityscapes/README
